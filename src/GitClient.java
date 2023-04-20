@@ -1,7 +1,7 @@
 import java.util.*;
 
 /**
- * This is class is the main class to use the operations from Repository.java within the console. 
+ * This class is the main class to use the operations from Repository.java within the console. 
  */
 public class GitClient {
     private static final List<String> operations = new ArrayList<>();
